@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/h6ive9a0crgpoff0?svg=true)](https://ci.appveyor.com/project/Zicio/promises)
+[![Build status](https://ci.appveyor.com/api/projects/status/bfn2yx1lv1cxi64m?svg=true)](https://ci.appveyor.com/project/Zicio/async-await)
