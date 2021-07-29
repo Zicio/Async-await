@@ -1,7 +1,7 @@
-import GameSavingLoader from '../saving';
+import result from '../app';
 
 test('should return object', async () => {
-  expect(await GameSavingLoader.load()).toEqual({
+  expect(await result).toEqual({
     id: 9,
     created: 1546300800,
     userInfo: {
